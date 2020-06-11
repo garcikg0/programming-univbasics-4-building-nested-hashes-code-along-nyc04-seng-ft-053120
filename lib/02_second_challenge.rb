@@ -3,7 +3,7 @@ def second_challenge
     :montague => {
       :patriarch => { },
       :matriarch => { },
-      :hero +> { },
+      :hero => { },
       :hero_friends => [ ]
       },
     :capulet => {
@@ -12,5 +12,5 @@ def second_challenge
       :heroine => { },
       :heroine_friends => [ ]
       }
-    }  
+    }
 end
